@@ -39,3 +39,5 @@
     <img alt='Hide-Gmail' src='https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail'>  
   </a>  
 </div>
+
+![Snake animation](https://github.com/HidemitsuHashimoto/HidemitsuHashimoto/blob/output/github-contribution-grid-snake.svg)

@@ -4,6 +4,8 @@
 - 🌱 Estudando Dart/Flutter
 - 😄 Pronouns: ele/dele
 
+<img align='right' height='180em' src='https://github.com/HidemitsuHashimoto/HidemitsuHashimoto/blob/main/profile.png?raw=true' />
+
 <div>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HidemitsuHashimoto&count_private=true&show_icons=true&theme=dark" />
@@ -37,5 +39,3 @@
     <img alt='Hide-Gmail' src='https://img.shields.io/badge/Gmail-grey?style=for-the-badge&logo=gmail'>  
   </a>  
 </div>
-
-![alt text](https://github.com/HidemitsuHashimoto/HidemitsuHashimoto/blob/main/profile.png?raw=true)

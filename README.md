@@ -19,14 +19,14 @@
 
 <div>
   <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg'>
-  <img style="background_color: #ffffff;" align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
-  <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'>
-  <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
-  <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
-  <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
-  <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
-  <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'>
-  <img align"center" alt="Hide-React" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'>
+  <img style="background_color: #ffffff;" align"center" alt="Hide-Next" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg'>
+  <img align"center" alt="Hide-Redux" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg'>
+  <img align"center" alt="Hide-Typescript" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg'>
+  <img align"center" alt="Hide-Html5" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg'>
+  <img align"center" alt="Hide-Css3" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg'>
+  <img align"center" alt="Hide-Javascript" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg'>
+  <img align"center" alt="Hide-Dart" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg'>
+  <img align"center" alt="Hide-Flutter" width="40" height="30" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg'>
 </div>
 
 ##
